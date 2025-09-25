@@ -72,7 +72,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/sarthaksingh-01/Vityarthi-Java-CCRM-Project.git
 cd your-repository-name
 Open in your IDE:
 
